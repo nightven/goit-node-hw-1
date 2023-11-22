@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://ibb.co/w7RZMYs" width="100"/>
-  <img src="https://ibb.co/d2dxxNj" width="100"/>
-  <img src="https://ibb.co/VxwxJQV" width="100"/>
-  <img src="https://ibb.co/y0pTFnc" width="100"/>
-  <img src="https://ibb.co/rQPzf4P" width="100"/>
+  <a href="https://ibb.co/w7RZMYs" > List method </a>
+  <a href="https://ibb.co/d2dxxNj" > Get by Id method</a>
+  <a href="https://ibb.co/VxwxJQV" > Add method</a>
+  <a href="https://ibb.co/y0pTFnc" > Remove method</a>
+  <a href="https://ibb.co/rQPzf4P" >  Update method</a>
 </div>
